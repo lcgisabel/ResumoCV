@@ -20,11 +20,11 @@ jQuery(document).ready(function( $ ) {
 
   // JavaScript Chart
   var doughnutData = [{
-      value: 70,
+      value: 80,
       color: "#1abc9c"
     },
     {
-      value: 30,
+      value: 20,
       color: "#ecf0f1"
     }
   ];
@@ -68,11 +68,11 @@ jQuery(document).ready(function( $ ) {
 
   // NodeJs Chart
   var doughnutData = [{
-    value: 70,
+    value: 80,
     color: "#1abc9c"
   },
   {
-    value: 30,
+    value: 20,
     color: "#ecf0f1"
   }
   ];
@@ -80,11 +80,11 @@ jQuery(document).ready(function( $ ) {
 
   // Python Chart
   var doughnutData = [{
-    value: 60,
+    value: 70,
     color: "#1abc9c"
   },
   {
-    value: 40,
+    value: 30,
     color: "#ecf0f1"
   }
   ];
